@@ -1,0 +1,14 @@
+video mode 0x4
+memory b800:000
+16k size 320/4*200
+
+every byte have 4 pixel
+using 4 color black
+cyan magenta and white
+
+the video buffer are divid 
+by 2 line decimal terminate
+in 0 and parety end 
+parety line in b800:0000
+line not paraty start in
+ba00:000
