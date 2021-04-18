@@ -1,5 +1,5 @@
 # cga_game_c
-Cga game c for blue operation 
+Cga game c for blue operation system
 
 
 
